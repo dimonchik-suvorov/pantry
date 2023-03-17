@@ -45,7 +45,7 @@ dict_items(
 
 Task:
 1. Create daily report: 
-   Top 10 items with the largest sum(ammount) for country with smallest number of return operation for last 10 day
+   Top 10 item names with the largest sum(ammount) of all buy operations in country with the smallest number of return operation for last 10 days
 
 
 ======|||||=======
